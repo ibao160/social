@@ -1,0 +1,110 @@
+
+.background{
+    background-image: url(https://i.pinimg.com/originals/65/c3/b3/65c3b30239da3471054cbd7090a6e51c.jpg);
+    width: 100%;
+    height: 1000px;
+}
+
+.block0{
+    width: 100%;
+    height: 500px;
+    position: fixed;
+    .text{
+        color: #e1a492;
+        font-family: cursive;
+        font-size: 100px;
+        text-align: center;
+        padding: 100px;
+    }
+}
+.block1{
+    background-color: #f6e5af;
+    width: 500px;
+    height: 80px;
+    position: fixed;
+    top: 250px;
+    right: 705px;
+    border-radius: 40px;
+    /* .youtube{
+        width: 80px;
+        height: 80px;
+        position: fixed;
+        right: 65rem;
+    } */
+    .text1{
+        color: #777d61;
+        font-family:cursive;
+        font-size: 30px;
+        text-align: center;
+        padding: 23px;
+    }
+}
+
+.block2{
+    background-color: #f6e5af;
+    width: 500px;
+    height: 80px;
+    position: fixed;
+    top: 350px;
+    right: 705px;
+    border-radius: 40px;
+    .text2{
+        color: #777d61;
+        font-family:cursive;
+        font-size: 30px;
+        text-align: center;
+        padding: 23px;
+    }
+} 
+
+.block3{
+    background-color: #f6e5af;
+    width: 500px;
+    height: 80px;
+    position: fixed;
+    top: 450px;
+    right: 705px;
+    border-radius: 40px;
+    .text3{
+        color: #777d61;
+        font-family:cursive;
+        font-size: 30px;
+        text-align: center;
+        padding: 23px;
+    }
+}
+
+.block4{
+    background-color: #f6e5af;
+    width: 500px;
+    height: 80px;
+    position: fixed;
+    top: 550px;
+    right: 705px;
+    border-radius: 40px;
+    .text4{
+        color: #777d61;
+        font-family:cursive;
+        font-size: 30px;
+        text-align: center;
+        padding: 23px;
+    }
+}
+
+.block5{
+    background-color: #f6e5af;
+    width: 500px;
+    height: 80px;
+    position: fixed;
+    top: 650px;
+    right: 705px;
+    border-radius: 40px;
+    .text5{
+        color: #777d61;
+        font-family:cursive;
+        font-size: 30px;
+        text-align: center;
+        padding: 23px;
+    }
+}
+
